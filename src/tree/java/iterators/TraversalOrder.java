@@ -1,4 +1,4 @@
-package io.github.seanlego23.tree.iterators;
+package tree.java.iterators;
 
 public enum TraversalOrder {
     IN_ORDER,

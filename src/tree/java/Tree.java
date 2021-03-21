@@ -1,7 +1,7 @@
-package io.github.seanlego23.tree;
+package tree.java;
 
-import io.github.seanlego23.tree.iterators.TraversalOrder;
-import io.github.seanlego23.tree.iterators.TreeIterator;
+import tree.java.iterators.TraversalOrder;
+import tree.java.iterators.TreeIterator;
 
 import java.util.Collection;
 import java.util.Spliterator;

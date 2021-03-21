@@ -1,6 +1,6 @@
-package io.github.seanlego23.tree.iterators;
+package tree.java.iterators;
 
-import io.github.seanlego23.tree.Tree;
+import tree.java.Tree;
 
 import java.util.Iterator;
 import java.util.function.Consumer;

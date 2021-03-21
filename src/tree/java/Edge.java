@@ -1,4 +1,4 @@
-package io.github.seanlego23.tree;
+package tree.java;
 
 final class Edge<T> {
 

@@ -1,4 +1,4 @@
-package io.github.seanlego23.tree;
+package tree.java;
 
 import java.util.Iterator;
 import java.util.Spliterator;
